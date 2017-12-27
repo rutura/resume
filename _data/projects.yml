@@ -13,9 +13,8 @@
   role: Co-Founder & Lead Developer
   duration: 2013 &mdash; Present
   url: "http://www.blikoontech.com/bliboard"
-  description: bliboard is a software product for interactive lesson creation and whiteboarding.It gives teachers and speakers instant access to our large resource base comprising of images and animations that are carefully designed for our main target audiences : kindergarten, primary&secondary schools, college and office or conference meetings.It is writeen in C++ leveleging the Qt Ui toolkit.
+  description: bliboard is a software product for interactive lesson creation and whiteboarding.It gives teachers and speakers instant access to our large resource base comprising of images and animations that are carefully designed for our main target audiences , kindergarten, primary&secondary schools, college and office or conference meetings.It is writeen in C++ leveleging the Qt Ui toolkit.
 
-  
 #Springfield Donut Eater's User Group
 - project: Salama Backend
   role: Senior Adviser
