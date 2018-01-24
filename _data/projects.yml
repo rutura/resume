@@ -2,14 +2,14 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: Android Lifestyle and instant messaging App,Salama
+- project: Salama
   role: Founder & Lead Developer
   duration: 2015 &mdash; Present
-  url: "www.blikoon.com/salama"
+  url: "http://www.blikoon.com/salama"
   description: Salama is a lifestyle App that not only let you send instant messages but also connects sellers and buyers.It uses XMPP at the core and uses Java on the Android Platform.
 
 #Springfield Donut Eater's User Group
-- project: Bliboard, the Whiteboard System for Schools and Conference Rooms
+- project: Bliboard Whiteboard System
   role: Co-Founder & Lead Developer
   duration: 2013 &mdash; Present
   url: "http://www.blikoontech.com/bliboard"
