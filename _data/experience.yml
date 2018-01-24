@@ -5,6 +5,12 @@
   duration: Jan, 2016 &mdash; Present
   summary: Involved in the design of company Software Products from conception to final design. Some of the things I did/do include	<ul class="resume-item-list"><li>Initial design of <a href="http://www.blikoontech.com/bliboard">bliboard</a>,set up of initial development environment and oversee further development of the product</li><li>Initial design of <a href="http://www.blikoontech.com/salama">Salama</a>,research on candidate technologies to help meet our goals and oversee further development of the product</li><li>Team Members Tech Training</li> <li>Build and Version Control System Management</li> <li>Company Linux Server System Administration</li> <li> Tools- <strong>Qt Creator</strong>,<strong>Git</strong>, <strong>C++</strong>,<strong>Java</strong>,<strong>Android Studio</strong>,<strong>MSV</strong>, <strong>QMake</strong>,<strong>Gradle</strong>,<strong>PHP</strong>,<strong>MySQL</strong>,... </li></ul>
 
+# Front Desk Attendant
+- company: BLIKOON Technologies LTD
+  position: Linux System Administrator
+  duration: Jan, 2016 &mdash; Present
+  summary: Carrying out routine chores of system administration on the companie's remote linux box. Set up management and maintaining different servers for services like HTTP, XMPP,and storage databases. Very familiar with servers like Nginx,Ejabberd,Openfire,MySQL,Tomcat,...
+   
   # Front Desk Attendant
 - company: BLIKOON Technologies LTD
   position: Digital Presence Manager
@@ -13,9 +19,9 @@
  
 # Windmill Crank Operator
 - company: ZHEJIANG HANLIN BOARD LTD
-  position: Lead Software Engineer
+  position: Lead Software Engineer & System Administrator
   duration:  Nov, 2014 &mdash; Feb, 2016
-  summary: In charge of the Messaging platform of the Company. Some of the things I did include <ul class="resume-item-list"> <li>Lead and train a small team of developers in accomplishing part of system </li> <li>Plan and initiate Technology Migrations when necessary </li> <li>Assisting potential clients/customers in integrating our messaging platform </li> <li>Code review and constant improvements </li> <li>Build System and Version Control System Management </li> <li>Routine Project Management Chores </li> <li>Tools - <strong>Qt</strong>,<strong>Qt Creator</strong>,<strong>Java/Android</strong>,<strong>Git</strong>,<strong>C++</strong> </li> </ul>
+  summary: In charge of the Messaging platform of the Company. Some of the things I did include <ul class="resume-item-list"> <li>Lead and train a small team of developers in accomplishing part of system </li> <li>Linux system administration chores for our live server. Main servers running being MYSQL , Ejabberd , Tomcat,... </li> <li>Plan and initiate Technology Migrations when necessary </li> <li>Assisting potential clients/customers in integrating our messaging platform </li> <li>Code review and constant improvements </li> <li>Build System and Version Control System Management </li> <li>Routine Project Management Chores </li> <li>Tools - <strong>Qt</strong>,<strong>Qt Creator</strong>,<strong>Java/Android</strong>,<strong>Git</strong>,<strong>C++</strong> </li> </ul>
 
   # Windmill Crank Operator
 - company: BEIJING HANLIN BOARD LTD

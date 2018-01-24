@@ -16,13 +16,6 @@
   description: bliboard is a software product for interactive lesson creation and whiteboarding.It gives teachers and speakers instant access to our large resource base comprising of images and animations that are carefully designed for our main target audiences , kindergarten, primary&secondary schools, college and office or conference meetings.It is writeen in C++ leveleging the Qt Ui toolkit.
 
 #Springfield Donut Eater's User Group
-- project: Salama Backend
-  role: Senior Adviser
-  duration: 2015 &mdash; Present
-  # url: "http://www.blikoontech.com/bliboard"
-  description: The backend of Salama is built on top of XMPP and uses several other hooks writen in PHP.
-
-#Springfield Donut Eater's User Group
 - project: Rooster
   role: Lead Developer Trainer
   duration: 2016 &mdash; Present
