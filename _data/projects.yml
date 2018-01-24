@@ -21,3 +21,31 @@
   duration: 2015 &mdash; Present
   # url: "http://www.blikoontech.com/bliboard"
   description: The backend of Salama is built on top of XMPP and uses several other hooks writen in PHP.
+
+#Springfield Donut Eater's User Group
+- project: Rooster
+  role: Lead Developer Trainer
+  duration: 2016 &mdash; Present
+  url: "https://github.com/blikoon/Rooster"
+  description: Rooster started out as a simple <a href="http://www.blikoontech.com/tutorials/android-smack-xmpp-introductionbuilding-a-simple-client">tutorial</a> on our blog. It quickly gained popularity among people learning to build XMPP chat systems targeting android devices. I find myself giving paid support to many happy learners since then.
+
+#Springfield Donut Eater's User Group
+- project: Rooster+ XMPP Android Video Course(Udemy)
+  role: Lead Developer&Trainer
+  duration: 2017 &mdash; Present
+  # url: "https://github.com/blikoon/Rooster"
+  description: This project is <strong>still under construction </strong>.Following the success of <a href="https://github.com/blikoon/Rooster">Rooster</a>, I have been getting many email requesting for help and support about such and such feature. That's why I distilled down all that valuable feedback into a PAID video course that any SERISOUS interested learner could pick up and be able to build a smack based instant messenger on android in record time. I am aiming at releasing the course mid Feb 2018.
+
+#Springfield Donut Eater's User Group
+- project: Android QR Code Scanner Library
+  role: Lead Developer
+  duration: 2017 &mdash; Present
+  url: "https://github.com/blikoon/QRCodeScanner"
+  description: This library was developed because we needed such a feature in <a href="http://www.blikoontech.com/salama">Salama</a>. Now building a library yourself is crasy right ? We built it because we needed to build some business around that technology in some near future. What better way to dive deep in the tech than building a library for that tech! Salama uses this library already and we are getting some early adpters using it now.
+
+  #Springfield Donut Eater's User Group
+- project: Ubufundi Android Cheat Sheet
+  role: Lead Developer
+  duration: 2017 &mdash; Present
+  url: "https://github.com/blikoon/Ubufundi"
+  description: This project started out as my go place in android development for two things <ul> <li>Brushing up on what I need to do for some task at hand </li> <li>Documenting a new trick/feature I just learned about </li> </ul> It turned out into a reference for new people in our company. We hope some other people/companies find it helpfu.
