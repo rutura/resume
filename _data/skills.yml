@@ -5,7 +5,7 @@
 
 # Skill Pool
 - skill: Tech Skill Pool
-  description: <p><img src="http://www.blikoontech.com/wp-content/uploads/2016/10/technologies.png" alt="Skill Pool"> </p>
+  description: <p class="content-section"><img src="http://www.blikoontech.com/wp-content/uploads/2016/10/technologies.png" alt="Skill Pool"> </p>
 
 # Spoken Languages
 - skill: Spoken Languages
