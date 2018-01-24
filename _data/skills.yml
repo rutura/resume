@@ -5,7 +5,7 @@
 
 # Skill Pool
 - skill: Tech Skillset
-  description: <ul class="resume-item-list"> <li> Web - <strong>Javascript</strong>, <strong>PHP</strong>, <strong>HTML5</strong>, <strong>Bootstrap</strong>, <strong>REST</strong>, <strong>Wordpress</strong> </li> <li> Desktop(Cross Platform) - <strong>Qt</strong>, <strong>Qt Creator</strong>, <strong>MSVC</strong>, <strong>GCC</strong> </li> <li> Mobile(Android) - <strong>Java-Android SDK</strong> </li> <li> System Administration <strong>Linux</strong>, <strong>Nginx</strong>, <strong>MySQL</strong>, <strong>Ejabberd</strong>, <strong>Openfire</strong> ,<strong>Prosody</strong></li> <li> Other - <strong>XML</strong>, <strong>SQLite</strong> </li> </ul> 
+  description: <ul class="resume-item-list"> <li> Web - <strong>Javascript</strong>, <strong>PHP</strong>, <strong>HTML5</strong>, <strong>Bootstrap</strong>, <strong>REST</strong>, <strong>Wordpress</strong> </li> <li> Desktop(Cross Platform) - <strong>Qt</strong>, <strong>Qt Creator</strong>, <strong>MSVC</strong>, <strong>GCC</strong> </li> <li> Mobile(Android) - <strong>Java-Android SDK</strong> </li> <li> System Administration - <strong>Linux</strong>, <strong>Nginx</strong>, <strong>MySQL</strong>, <strong>Ejabberd</strong>, <strong>Openfire</strong> ,<strong>Prosody</strong></li> <li> Other - <strong>XML</strong>, <strong>SQLite</strong> </li> </ul> 
 
 # Spoken Languages
 - skill: Spoken Languages
