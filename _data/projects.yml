@@ -5,7 +5,7 @@
 - project: Salama
   role: Founder & Lead Developer
   duration: 2015 &mdash; Present
-  url: "http://www.blikoon.com/salama"
+  url: "http://www.blikoontech.com/salama"
   description: Salama is a lifestyle App that not only let you send instant messages but also connects sellers and buyers.It uses XMPP at the core and uses Java on the Android Platform.
 
 #Springfield Donut Eater's User Group
@@ -26,8 +26,8 @@
 - project: Rooster+ XMPP Android Video Courses
   role: Lead Developer&Trainer
   duration: 2017 &mdash; Present
-  url: "https://blikoon.teachable.com/"
-  description: Following the success of <a href="https://github.com/blikoon/Rooster">Rooster</a>, I have been getting many email requesting for help and support about such and such feature. That's why I distilled down all that valuable feedback into a PAID video course that any SERISOUS interested learner could pick up and be able to build a smack based instant messenger on android in record time. The course is currently released and AVAILABLE on our <a href="https://blikoon.teachable.com/">Online School</a>.
+  url: "https://www.udemy.com/xmpp-and-smack-fundamentals-the-missing-android-course/"
+  description: Following the success of <a href="https://github.com/blikoon/Rooster">Rooster</a>, I have been getting many email requesting for help and support about such and such feature. That's why I distilled down all that valuable feedback into a PAID video course that any SERISOUS interested learner could pick up and be able to build a smack based instant messenger on android in record time. The course is currently released and AVAILABLE on <a href="https://www.udemy.com/xmpp-and-smack-fundamentals-the-missing-android-course/">Udemy</a>.
 
 #Springfield Donut Eater's User Group
 - project: Android QR Code Scanner Library
